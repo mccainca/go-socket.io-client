@@ -2,9 +2,7 @@ package socketio_client
 
 import (
 	"net/url"
-	"path"
 	"reflect"
-	"strings"
 	"sync"
 )
 
